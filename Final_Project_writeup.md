@@ -1,4 +1,4 @@
-# Project 2.2: Multi-Target Tracking with Extended Kalman Filter
+# Project: Multi-Target Tracking with Extended Kalman Filter
 ## Final Report
 
 
