@@ -31,7 +31,7 @@ In this project, we developed a sensor fusion system capable of tracking multipl
 ## Key Modules
 
 ### 1. Extended Kalman Filter (EKF)
-We implemented a nonlinear EKF for state estimation, incorporating custom motion and measurement models, Jacobian computation, and process noise modeling.
+We implemented a nonlinear EKF for state estimation, incorporating custom motion and measurement models, jacobian computation, and process noise modeling.
 
 ### 2. Track Management
 A full lifecycle system manages track states including tentative confirmation and pruning of inactive or low-score tracks.
