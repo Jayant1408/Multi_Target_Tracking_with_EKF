@@ -40,7 +40,7 @@ A full lifecycle system manages track states including tentative confirmation an
 Used Mahalanobis distance with validation gating to associate observations to tracks reliably, reducing mismatches and ID switches.
 
 ### 4. Camera-LiDAR Sensor Fusion
-Fused bounding boxes from camera and LiDAR using projection matrices and non-linear models to improve spatial accuracy, especially under occlusion or partial visibility.
+Fused bounding boxes from camera and LiDAR using projection matrices and non-linear models to improve spatial accuracy, especially under occlusion / partial visibility.
 
 ---
 
