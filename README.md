@@ -9,7 +9,7 @@
 ### Introduction
 
 <div align="center">
-  <img src="Final_project_figures/Tracking_results.gif" width="70%">
+  <img src="Final_project_figures/Jayant_Kumar_tracking_results.gif" width="70%">
 </div>
 
 <p align="center">Multi-target tracking (MTT) with camera-LiDAR sensor fusion</p>
