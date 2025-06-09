@@ -66,7 +66,7 @@ We addressed this by tuning key parameters for sensor fusion like `delete_thresh
 ##### Single-target tracking
 
 
-<img src="Final_project_figures/Jayant_Kumar_tracking_results_[150-200].gif" width="100%" height="100%">
+<img src="Final_project_figures/Jayant_Kumar_tracking_150_200_results.gif" width="100%" height="100%">
 
 $$
 \begin{align}
@@ -99,7 +99,7 @@ To reduce false positives, we introduced a track scoring system and implemented 
 
 ##### Track management
 
-<img src="Final_project_figures/Jayant_Kumar_tracking_results_[65-100].gif" width="100%" height="100%">
+<img src="Final_project_figures/Jayant_Kumar_tracking_65_100_results.gif" width="100%" height="100%">
 
 $$
 \begin{align}
